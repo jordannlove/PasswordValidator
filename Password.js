@@ -11,5 +11,6 @@ function isValid()
   else
   {
     console.log("Invalid");
+    alert("Sorry, your passwords didn't match.");
   }
 }
